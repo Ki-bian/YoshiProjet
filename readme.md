@@ -1,5 +1,3 @@
-Site web du projet Yoshi !
+Site web du premier projet en équipe de 6 personnes à la Wild Code School!
 
-Maquette en cours
-
-Edit
+https://ki-bian.github.io/YoshiProjet/
